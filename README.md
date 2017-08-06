@@ -10,6 +10,4 @@ This bot was also ran on macOS (if that is important to anyone), but can run on 
 
 The HackerWorld version of HackerBot is 0.0.9 . That version uses > as its prefix.  
 
-The GitHub version of HackerBot is 0.0.8. That version uses - as its prefix.  
-
 This change was made due to interferance with popular bots like GalacticBot.
