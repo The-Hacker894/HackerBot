@@ -3,7 +3,7 @@ Discord Bot made for the HackerWorld Discord
 
 This bot was made for running with Node.js and built off of Discord.js.  
 
-This bot was also ran on macOS (if that is important to anyone)
+This bot was also ran on macOS (if that is important to anyone), but can run on Windows or Linux.
 
 The HackerWorld version of HackerBot is 0.0.9 . That version uses > as its prefix.  
 
