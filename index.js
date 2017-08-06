@@ -89,6 +89,9 @@ client.on("message", message => {
       		message.channel.send("Because you\'re my superstar!")
       		message.channel.send("https://youtu.be/wGQHQc_3ycE?t=30s")
       		break;
+      case "botinvite":
+    	message.channel.send("https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=0")
+    	break;
       case "invite":
       	message.channel.send('Here is the invite to the server requested by,' + message.author.toString() + ".")
     	var embed = new Discord.RichEmbed()
