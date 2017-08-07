@@ -2,7 +2,7 @@
 Discord Bot made for the HackerWorld Discord  
 
  Bot Invite
- https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=0
+ https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14
 
 This bot was made for running with Node.js and built off of Discord.js.  
 
