@@ -35,7 +35,8 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
 
 # Commands  
   
-`>help | Find out what commands you can use  
+ ``  
+ >help | Find out what commands you can use  
  >ping | Pong!  
  >test | Test to see if the bot is working (Will DM the user and post in the server chat)  
  >yt | Get a link to MrHacker YT Channel  
@@ -75,7 +76,8 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >purge10 | Purge 10 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
  >purge5 | Purge 5 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
  >purge3 | Purge 3 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
- `  
+  ``  
+    
 
 # Upcoming Features  
 
