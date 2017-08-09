@@ -48,7 +48,7 @@ HackerBot v0.1 (Releasing Saturday)
 ![HackerBot Ban2](https://puu.sh/x5eTi/6925556ee4.png)  
 ![HackerBot Ban3](https://puu.sh/x5eUB/325a3f58d0.png)  
 
-There are still more features to come with HackerBot. If you ever decide to invite HackerBot to your server just type >help for help.  
+There are still more features to come with HackerBot. Just type >help for help.  
 
 Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on the GitHub Page.
 
