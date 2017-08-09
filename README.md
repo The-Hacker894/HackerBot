@@ -31,14 +31,58 @@ HackerBot v0.1 (Releasing Saturday)
 
 There are still more features to come with HackerBot. If you ever decide to invite HackerBot to your server just type >help for help.  
 
+Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on the GitHub Page.
+
+# Commands
+`>help | Find out what commands you can use  
+ >ping | Pong!  
+ >test | Test to see if the bot is working (Will DM the user and post in the server chat)  
+ >yt | Get a link to MrHacker YT Channel  
+ >changelog | See whats new in the latest build of HackerBot  
+ >info | Shows info on HackerBot  
+ >invite | Get an invite to the HackerWorld Server  
+ >shrug | Get a shrug or meh  
+ >swag | CAN'T HANDLE THE SWAG!!!!  
+ >notproductive | For Non-Productive Peeps  
+ >botinvite | Get an OAuth Invite for HackerBot  
+ >botstatus | Change the bot's status (Will likely be changed to only allow Owners to use this command)  
+ >siri | Ask siri to complete tasks for you  
+ error 'color' (without quotes)  
+ >tableflip | When you just feel like flipping tables  
+ >kernalpanic | When your Mac just can't take it anymore  
+ >bigorder | I think we all know what this is :)  
+ >botwganonmusic | Ganon Boss Fight Music from BOTW  
+ >dannyslife | Read DannyBoi's Biography  
+ >upcomingfeatures | See what features are coming :D  
+ >rps | Rock, PAPER, SCISSORS!!!....SHOOOOOOOOOOOT!!!  
+ >coinflip | Flip a coin!  
+ >8ball | Have a randomizer determine your future  
+ >mariomusical  | Listen to the Super Mario Odyssey Musical  
+ >woahmeme | WOAH Memes!
+ >dancinghotdog | Dancing Hotdog...you already know.  
+ >whats9+10 | 21  
+ >gtx1080 | I'AM A GTX 1080  
+ >cutedogsandcats | Get a cute dog or cat  
+ >importthis | The Zen of Python  
+ >Ban | Ban Users (Will only allow users with a role named Owner or Admin.)  
+ >Kick | Kick Users (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purgeall | Purge 100 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge75 | Purge 75 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge50 | Purge 50 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge25 | Purge 25 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge15 | Purge 15 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge10 | Purge 10 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge5 | Purge 5 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >purge3 | Purge 3 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
+
 # Upcoming Features  
 
-Music Commands
+Music Commands  
 >google  
 >giphy  
 >sourcecode  
 >website  
-
+>unban  
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
 
