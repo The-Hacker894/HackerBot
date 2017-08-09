@@ -1,5 +1,7 @@
 # HackerBot  
-
+  
+[Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)  
+  
 HackerBot was (at first) made for the HackerWorld Discord. But after some users were excited about adding this bot to their own server it was decided that HackerBot would release to the public with its source code being released to GitHub. HackerBot runs off of the Discord.JS API for an easy server and client-side experience.  
 
 # How to Run
