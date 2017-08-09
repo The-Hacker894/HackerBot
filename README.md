@@ -8,7 +8,7 @@ HackerBot v0.1 (Releasing Saturday)
 
 -Moderation 
  HackerBot will delete messages with cuss words and _other_ inappropriate content.  
- ![HackerBot_Censoring](https://puu.sh/x5eoe/933d52408d.png)  
+ ![HackerBot_Censoring](https://puu.sh/x5ffg/207a32fbad.png)  
   
 -Embedded Help Messages  
  HackerBot's Help Messages will be DM'd to the user and are embedded so they do not clutter server chats and are easier to read.  
