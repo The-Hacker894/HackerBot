@@ -2,6 +2,10 @@
 
 HackerBot was (at first) made for the HackerWorld Discord. But after some users were excited about adding this bot to their own server it was decided that HackerBot would release to the public with its source code being released to GitHub. HackerBot runs off of the Discord.JS API for an easy server and client-side experience.  
 
+# Future  
+  
+  For HackerBot 0.2 The Overhaul will redesign quite a few of the commands. For example Help will only show commands available to certain roles. We hope you all stick around for v0.2 of HackerBot to see the new editions we make.
+
 # Features  
 
 HackerBot v0.1 (Releasing Saturday)  
