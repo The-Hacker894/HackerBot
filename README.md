@@ -35,9 +35,9 @@ There are still more features to come with HackerBot. If you ever decide to invi
 
 Music Commands
 >google  
->giphy
->sourcecode
->website
+>giphy  
+>sourcecode  
+>website  
 
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
