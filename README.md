@@ -66,6 +66,8 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >gtx1080 | I'AM A GTX 1080  
  >cutedogsandcats | Get a cute dog or cat  
  >importthis | The Zen of Python  
+ >sourcecode | View the source code for HackerBot  
+ >website | View the HackerBot Website  
  >Ban | Ban Users (Will only allow users with a role named Owner or Admin.)  
  >Kick | Kick Users (Will only allow users with a role named Owner, Admin, or Moderator.)  
  >purgeall | Purge 100 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
@@ -84,8 +86,6 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
 Music Commands  
 >google  
 >giphy  
->sourcecode  
->website  
 >unban  
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
