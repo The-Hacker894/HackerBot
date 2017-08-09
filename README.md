@@ -90,3 +90,5 @@ Music Commands
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
 
+
+"Sean Collins is a pain in the neck" is also a auto-response (Without the quotes)
