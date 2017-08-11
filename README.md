@@ -87,8 +87,10 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >importthis | The Zen of Python  
  >sourcecode | View the source code for HackerBot  
  >website | View the HackerBot Website  
- >Ban | Ban Users (Will only allow users with a role named Owner or Admin.)  
- >Kick | Kick Users (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >banuser | Ban Users (Will only allow users with a role named Owner or Admin.)  
+ >ban | Get usage help for >banuser  
+ >kickuser | Kick Users (Will only allow users with a role named Owner, Admin, or Moderator.)  
+ >kick | Get usage help for >kickuser
  >purgeall | Purge 100 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
  >purge75 | Purge 75 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
  >purge50 | Purge 50 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
