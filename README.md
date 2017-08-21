@@ -15,16 +15,12 @@ To run HackerBot you will need;
       -Open CMD for Windows or Terminal for macOS and Linux  
       -Navigate to your bot folder  
       -Type ``npm install --save discord.js``  
-      -When the download is finished type ``node index009.js``
+      -When the download is finished type ``node index02release.js``
   You may also want an efficient text editor like [Atom](https://atom.io/)
-
-# Future  
-  
-  For HackerBot 0.2 The Overhaul will redesign quite a few of the commands. For example Help will only show commands available to certain roles. We hope you all stick around for v0.2 of HackerBot to see the new editions we make.
 
 # Features  
 
-HackerBot v0.1 (Releasing Saturday)  
+HackerBot v0.2
 
 -Moderation 
  HackerBot will delete messages with cuss words and _other_ inappropriate content.  
@@ -69,7 +65,6 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >botinvite | Get an OAuth Invite for HackerBot  
  >botstatus | Change the bot's status (Will likely be changed to only allow Owners to use this command)  
  >siri | Ask siri to complete tasks for you  
- error 'color' (without quotes)  
  >tableflip | When you just feel like flipping tables  
  >kernalpanic | When your Mac just can't take it anymore  
  >bigorder | I think we all know what this is :)  
@@ -83,6 +78,12 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >woahmeme | WOAH Memes!
  >dancinghotdog | Dancing Hotdog...you already know.  
  >whats9+10 | 21  
+ >say | HackerBot repeats what is said  
+ >uptime usage | Get info on how to use the >uptime command  
+ >error <color> | Get an error image with the specific color  
+ >serverinfo | Get info on the server  
+ >picklerick | I'm PICKLERRIIIIIIIIIIICK  
+ >rage | Rage...what else is there to explain  
  >gtx1080 | I'AM A GTX 1080  
  >cutedogsandcats | Get a cute dog or cat  
  >importthis | The Zen of Python  
@@ -105,10 +106,11 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
 
 # Upcoming Features  
 
-Music Commands  
+-Music Commands  
 >google  
 >giphy  
 >unban  
+>mute  
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
 
