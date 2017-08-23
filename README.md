@@ -8,7 +8,6 @@ HackerBot was (at first) made for the HackerWorld Discord. But after some users 
 # Future  
 With HackerBot 0.3 I am attempting to add the features below _(This list may change between now and September 2)_  
   
-  -Error Messages  
   -Less Latency  
 _I know it's pretty dry_
   
