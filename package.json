@@ -2,7 +2,9 @@
   "name": "hackerbot",
   "version": "0.1 RevA",
   "description": "HackerBot. A little hacker thats a bot.",
-  "main": "bot.js",
+  "prefix": ">",
+  "language": "Discord.js",
+  "token": "token_here",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
