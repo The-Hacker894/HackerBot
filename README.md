@@ -9,7 +9,8 @@ HackerBot was (at first) made for the HackerWorld Discord. But after some users 
 With HackerBot 0.3 I am attempting to add the features below _(This list may change between now and September 2)_  
   
   -Less Latency  
-_I know it's pretty dry_
+  -Use package.json for security  
+_I know it's pretty dry_  
   
 # How to Run
 
