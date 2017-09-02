@@ -5,12 +5,6 @@
   
 HackerBot was (at first) made for the HackerWorld Discord. But after some users were excited about adding this bot to their own server it was decided that HackerBot would release to the public with its source code being released to GitHub. HackerBot runs off of the Discord.JS API for an easy server and client-side experience.  
   
-# Future  
-With HackerBot 0.3 I am attempting to add the features below _(This list may change between now and September 2)_  
-  
-  -Less Latency  
-  -Use package.json for security  
-_I know it's pretty dry_  
   
 # How to Run
 
@@ -27,7 +21,7 @@ To run HackerBot you will need;
 
 # Features  
 
-HackerBot v0.2
+HackerBot 5.005
 
 -Moderation 
  HackerBot will delete messages with cuss words and _other_ inappropriate content.  
@@ -75,7 +69,10 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >tableflip | When you just feel like flipping tables  
  >kernalpanic | When your Mac just can't take it anymore  
  >bigorder | I think we all know what this is :)  
+ >eclipse2017 | The Great American Eclipse of 2017  
+ >consoleissue | Report Bot Issues through the console  
  >botwganonmusic | Ganon Boss Fight Music from BOTW  
+ <danquotes | One of the many quotes from DanGamingTV  
  >dannyslife | Read DannyBoi's Biography  
  >upcomingfeatures | See what features are coming :D  
  >rps | Rock, PAPER, SCISSORS!!!....SHOOOOOOOOOOOT!!!  
