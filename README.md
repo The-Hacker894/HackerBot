@@ -48,7 +48,7 @@ HackerBot 5.005
 
 There are still more features to come with HackerBot. Just type >help for help.  
 
-Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on the GitHub Page.
+Some Commands below are being worked on for the next version of HackerBot.
 
 # Commands  
   
@@ -93,6 +93,8 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
  >importthis | The Zen of Python  
  >sourcecode | View the source code for HackerBot  
  >website | View the HackerBot Website  
+ >channelcreate | Create a Text Channel  
+ >channeldelete | Delete a Text Channel  
  >banuser | Ban Users (Will only allow users with a role named Owner or Admin.)  
  >ban | Get usage help for >banuser  
  >kickuser | Kick Users (Will only allow users with a role named Owner, Admin, or Moderator.)  
@@ -115,6 +117,8 @@ Some Commands below may only work on 0.1 HackerBot not the 0.0.9 Source Code on 
 >giphy  
 >unban  
 >mute  
+>vcchanneldelete  
+>vcchannelcreate  
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
 
