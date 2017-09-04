@@ -6,6 +6,15 @@
 HackerBot was (at first) made for the HackerWorld Discord. But after some users were excited about adding this bot to their own server it was decided that HackerBot would release to the public with its source code being released to GitHub. HackerBot runs off of the Discord.JS API for an easy server and client-side experience.  
   
   
+# Future  
+  HackerBot 6.01 (6th week, first day) is planned to have these features  
+  >channelcreate _Working_  
+  >channeldelete _Working_  
+  >vcchannelcreate *Being worked on*  
+  >vcchanneldelete *Being worked on*  
+    
+  Some form of role creation  
+    
 # How to Run
 
 To run HackerBot you will need;
