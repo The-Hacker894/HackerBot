@@ -5,16 +5,7 @@
   
 HackerBot was (at first) made for the HackerWorld Discord. But after some users were excited about adding this bot to their own server it was decided that HackerBot would release to the public with its source code being released to GitHub. HackerBot runs off of the Discord.JS API for an easy server and client-side experience.  
   
-  
-# Future  
-  HackerBot 6.01 (6th week, first day) is planned to have these features  
-  >channelcreate _Working_  
-  >channeldelete _Working_  
-  >vcchannelcreate *Being worked on*  
-  >vcchanneldelete *Being worked on*  
-    
-  Some form of role creation  
-    
+
 # How to Run
 
 To run HackerBot you will need;
@@ -30,8 +21,8 @@ To run HackerBot you will need;
 
 # Features  
 
-HackerBot 5.005
-
+HackerBot 6.05  
+  
 -Moderation 
  HackerBot will delete messages with cuss words and _other_ inappropriate content.  
  ![HackerBot_Censoring](https://puu.sh/x5ffg/207a32fbad.png)  
@@ -75,6 +66,7 @@ Some Commands below are being worked on for the next version of HackerBot.
  >botinvite | Get an OAuth Invite for HackerBot  
  >botstatus | Change the bot's status (Will likely be changed to only allow Owners to use this command)  
  >siri | Ask siri to complete tasks for you  
+ >untableflip | When you just need to unflip a table  
  >tableflip | When you just feel like flipping tables  
  >kernalpanic | When your Mac just can't take it anymore  
  >bigorder | I think we all know what this is :)  
@@ -92,7 +84,8 @@ Some Commands below are being worked on for the next version of HackerBot.
  >dancinghotdog | Dancing Hotdog...you already know.  
  >whats9+10 | 21  
  >say | HackerBot repeats what is said  
- >uptime usage | Get info on how to use the >uptime command  
+ >saytts | HackerBot repeats what is said through /tts
+ >uptime | Get info on how to use the >uptime command  
  >error <color> | Get an error image with the specific color  
  >serverinfo | Get info on the server  
  >picklerick | I'm PICKLERRIIIIIIIIIIICK  
