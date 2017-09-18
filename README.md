@@ -121,7 +121,8 @@ Some Commands below are being worked on for the next version of HackerBot.
 >mute  
 >vcchanneldelete  
 >vcchannelcreate  
-
+>setnick   
+  
 Getting a user's ID for >softban command and ease of use for >unban
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
