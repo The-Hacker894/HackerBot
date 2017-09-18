@@ -66,7 +66,8 @@ Some Commands below are being worked on for the next version of HackerBot.
  >botinvite | Get an OAuth Invite for HackerBot  
  >botstatus | Change the bot's status (Will likely be changed to only allow Owners to use this command)  
  >siri | Ask siri to complete tasks for you  
- >untableflip | When you just need to unflip a table  
+ >dmhacker | DM the creator of HackerBot to report a bug or something  
+ >untableflip | When you just need to unflip a table  
  >tableflip | When you just feel like flipping tables  
  >kernalpanic | When your Mac just can't take it anymore  
  >bigorder | I think we all know what this is :)  
@@ -117,10 +118,11 @@ Some Commands below are being worked on for the next version of HackerBot.
 -Music Commands  
 >google  
 >giphy  
->unban  
 >mute  
 >vcchanneldelete  
 >vcchannelcreate  
+
+Getting a user's ID for >softban command and ease of use for >unban
 
  [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=342054071060004884&scope=bot&permissions=14)
 
