@@ -28,18 +28,6 @@ if(msg.content === 'peer pressure') {
   if(msg.content === 'Peer Pressure') {
       msg.channel.send("https://cdn.discordapp.com/attachments/327184201440952332/344322800938516500/unknown.png")
   }
-if(msg.content === 'Sean Collins is a pain in the neck') {
-    msg.channel.send("Why yes he is.")
-  }
-if(msg.content === 'MrHacker is a pain in the neck') {
-    msg.channel.send("I\'d have to disagree with you on that, buddy")
-  }
-if(msg.content === 'MrHacker894 is a pain in the neck') {
-    msg.channel.send("I\'d have to disagree with you on that, buddy")
-  }
-if(msg.content === 'mrhacker is a pain in the neck') {
-    msg.channel.send("I\'d have to disagree with you on that, buddy")
-  }
   if (msg.content === 'Apple') {
     msg.channel.send('https://www.apple.com');
   }
@@ -71,9 +59,6 @@ if(msg.content === 'mrhacker is a pain in the neck') {
     if (msg.author.bot) return;
     msg.channel.send('Oi!')
     msg.channel.send('That\'s my word m8.')
-  }
-  if (msg.content === '@HackerBot#0162'){
-    msg.channel.send('No need to mention me :P')
   }
   if (msg.content === 'Go home HackerBot you\'re drunk') {
     msg.channel.send('I...')
@@ -620,6 +605,13 @@ message.channel.sendEmbed(embed)
       .setURL('https://mr-hacker894.github.io/HackerBot/')
       message.channel.sendEmbed(embed)
       break;
+	  case "github":
+		  var embed = new Discord.RichEmbed()
+		  .setColor('40E0d0')
+		  .setTitle('HackerBot Github Page')
+		  .setDescription('Here you can view the HackerBot github page.')
+		  .setURL('https://mr-hacker894.github.io/HackerBot/')
+		  message.channel.sendEmbed(embed)
             break;
 
       case "invite":
@@ -634,18 +626,18 @@ message.channel.sendEmbed(embed)
     	message.channel.send('Might wanna go the Apple Genius Bar!')
     	message.channel.sendFile('http://i.imgur.com/Ev03b0i.jpg')
     	break;
+	  case "errorhelp":
+		  var embed = new Discord.RichEmbed()
+     		 .setColor("FFFF00")
+     		 .setTitle('Error Commands')
+    		  .addField('Error Red','>error red')
+   		   .addField('Error Orange','>error orange')
+   		   .addField('Error Yellow','>error yellow')
+   		   .addField('Error Green','>error green')
+  		    .addField('Error Blue','>error blue')
+  		    .addField('Error Purple','>error purple')
+  		  message.channel.sendEmbed(embed)
     case "error":
-      var embed = new Discord.RichEmbed()
-      .setColor("FFFF00")
-      .setTitle('Error Commands')
-      .addField('Error Red','>error red')
-      .addField('Error Orange','>error orange')
-      .addField('Error Yellow','>error yellow')
-      .addField('Error Green','>error green')
-      .addField('Error Blue','>error blue')
-      .addField('Error Purple','>error purple')
-      break;
-    message.channel.sendEmbed
       switch (args[1]) {
         case "red":
           message.channel.sendFile('http://www.fixwindowserrors.biz/blog/wp-content/uploads/2015/09/red.png')
@@ -729,6 +721,7 @@ message.channel.sendEmbed(embed)
       .addField('>website','View the HackerWorld Website :D')
       .addField('>dmhacker', 'DM the creator of HackerBot :)')
       .addField('>sourcecode','View the HackerBot Source Code')
+      .addField('>github','View the HackerBot GitHub')
         .addField('>say','A command to make HackerBot say whatever you want')
         .addField('>saytts','A command to make HackerBot use TTS to say whatever you want')
       .addField('>suggestion','Send a suggestion for future bot features.')
@@ -763,6 +756,7 @@ message.channel.sendEmbed(embed)
       .addField('>gtx1080','I\'AM A GTX 1080!')
       .addField('>importthis','A reference to Python IDE')
       .addField('>error','Error Screens :(')
+      .addField('>errorhelp','Help on the >error command')
       .setFooter(" Version " + info.version,"https://cdn.discordapp.com/avatars/342054071060004884/04f1a7a65bd8467eb928e82b33e6d010.webp?size=1024")
       message.member.sendEmbed(embed)
       var config = require("./config.json");
@@ -817,6 +811,7 @@ message.channel.sendEmbed(embed)
           .addField('>website','View the HackerWorld Website :D')
           .addField('>dmhacker', 'DM the creator of HackerBot :)')
           .addField('>sourcecode','View the HackerBot Source Code')
+	  .addField('>github','View the HackerBot GitHub')
             .addField('>say','A command to make HackerBot say whatever you want')
             .addField('>saytts','A command to make HackerBot use TTS to say whatever you want')
           .addField('>suggestion','Send a suggestion for future bot features.')
@@ -851,6 +846,7 @@ message.channel.sendEmbed(embed)
           .addField('>gtx1080','I\'AM A GTX 1080!')
           .addField('>importthis','A reference to Python IDE')
                 .addField('>error','Error Screens :(')
+	.addField('>errorhelp','Help on the >error command')
           .setFooter(" Version " + info.version,"https://cdn.discordapp.com/avatars/342054071060004884/04f1a7a65bd8467eb928e82b33e6d010.webp?size=1024")
           message.member.sendEmbed(embed)
                 message.channel.send('Help has been DM\'d, ' + message.author.toString() + '.')
