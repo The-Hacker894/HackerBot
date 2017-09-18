@@ -1,12 +1,4 @@
 {
-  "name": "hackerbot",
-"version": "6.05",
-  "oldversion": "0.4",
-  "description": "HackerBot is a bot that hacks everywhere to bring you moderation and many other features",
-  "prefix": ">",
-  "language": "Discord.js",
-  "token": "token_here",
-  "owner": "MrHacker894",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,3 +10,4 @@
     "ytdl-core": "^0.15.0"
   }
 }
+
