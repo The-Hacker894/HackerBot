@@ -684,6 +684,7 @@ message.channel.sendEmbed(embed)
     	break;
     case "info":
     var info = require("./info.json");
+	var config = require("./config.json");
     	var embed = new Discord.RichEmbed()
     	.setColor("ffff00")
     	.setTitle('HackerBot Info')
