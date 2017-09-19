@@ -21,7 +21,7 @@ To run HackerBot you will need;
 
 # Features  
 
-HackerBot 6.05  
+HackerBot 7.02  
   
 -Moderation 
  HackerBot will delete messages with cuss words and _other_ inappropriate content.  
@@ -40,7 +40,7 @@ HackerBot 6.05
   
   ![HackerBot Auto Responses](https://puu.sh/x5eEN/ac99226725.png)  
  
--Ban, Kicking, and Purging Locked to Certain Roles  
+-Ban/Unban, Kicking, and Purging Locked to Certain Roles  
  HackerBot will not let users without an Owner, Admin, or Moderator role use the Ban, Kick, or Purge command(s) so you don't have to worry about Raids and Trolls.  
 ![HackerBot Ban](https://puu.sh/x5eRN/ca7318f221.png)  
 ![HackerBot Ban2](https://puu.sh/x5eTi/6925556ee4.png)  
@@ -48,7 +48,7 @@ HackerBot 6.05
 
 There are still more features to come with HackerBot. Just type >help for help.  
 
-Some Commands below are being worked on for the next version of HackerBot.
+Some Commands below may not work for current GitHub Release HackerBot. To see all available commands type >help in Discord.  
 
 # Commands  
   
@@ -117,7 +117,6 @@ Some Commands below are being worked on for the next version of HackerBot.
 
 -Music Commands  
 >google  
->giphy  
 >mute  
 >vcchanneldelete  
 >vcchannelcreate  
