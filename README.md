@@ -63,9 +63,7 @@ Some Commands below may not work for current GitHub Release HackerBot. To see al
  >shrug | Get a shrug or meh  
  >swag | CAN'T HANDLE THE SWAG!!!!  
  >notproductive | For Non-Productive Peeps  
- >botinvite | Get an OAuth Invite for HackerBot  
- >botstatus | Change the bot's status (Will likely be changed to only allow Owners to use this command)  
- >siri | Ask siri to complete tasks for you  
+ >botinvite | Get an OAuth Invite for HackerBot    
  >dmhacker | DM the creator of HackerBot to report a bug or something  
  >untableflip | When you just need to unflip a table  
  >tableflip | When you just feel like flipping tables  
@@ -74,7 +72,7 @@ Some Commands below may not work for current GitHub Release HackerBot. To see al
  >eclipse2017 | The Great American Eclipse of 2017  
  >consoleissue | Report Bot Issues through the console  
  >botwganonmusic | Ganon Boss Fight Music from BOTW  
- <danquotes | One of the many quotes from DanGamingTV  
+ >danquotes | One of the many quotes from DanGamingTV  
  >dannyslife | Read DannyBoi's Biography  
  >upcomingfeatures | See what features are coming :D  
  >rps | Rock, PAPER, SCISSORS!!!....SHOOOOOOOOOOOT!!!  
@@ -88,6 +86,7 @@ Some Commands below may not work for current GitHub Release HackerBot. To see al
  >saytts | HackerBot repeats what is said through /tts
  >uptime | Get info on how to use the >uptime command  
  >error <color> | Get an error image with the specific color  
+ >errorhelp
  >serverinfo | Get info on the server  
  >picklerick | I'm PICKLERRIIIIIIIIIIICK  
  >rage | Rage...what else is there to explain  
@@ -100,6 +99,8 @@ Some Commands below may not work for current GitHub Release HackerBot. To see al
  >channeldelete | Delete a Text Channel  
  >banuser | Ban Users (Will only allow users with a role named Owner or Admin.)  
  >ban | Get usage help for >banuser  
+ >unbanuser | Unban a user | Usage: >unban 123458035834 (At this moment you must have the user's ID to unban)  
+ >unban | Get usage help for >unbanuser
  >kickuser | Kick Users (Will only allow users with a role named Owner, Admin, or Moderator.)  
  >kick | Get usage help for >kickuser  
  >purgeall | Purge 100 Messages (Will only allow users with a role named Owner, Admin, or Moderator.)  
