@@ -132,7 +132,7 @@ client.on("message", message => {
       var embed = new Discord.RichEmbed()
         .setColor('008080')
           .setTitle('HackerBot Website')
-            .setURL('https://mr-hacker894.github.io/HackerBot/')
+            .setURL('https://sites.google.com/view/hackerbot/home')
           message.channel.sendEmbed(embed)
 
         break;
@@ -214,7 +214,7 @@ client.on("message", message => {
   .setTitle('Ban Usage')
   .setDescription('This command will only work if your role is named Owner, Admin, or Moderator')
   .addField('Usage','>banuser @MrHacker Hacking into NSA')
-  .setFooter("Version " + config.version + " (Ban Usage)","https://cdn.discordapp.com/avatars/342054071060004884/04f1a7a65bd8467eb928e82b33e6d010.webp?size=1024")
+  .setFooter("Version " + config.version + " (Ban Usage)","https://cdn.discordapp.com/avatars/342054071060004884/04f1a7a65bd8467eb928e82b33e6d010.p?size=1024")
   message.channel.sendEmbed(embed)
   console.log('Ban Command used on ' + message.guild.name + '.')
           break;
