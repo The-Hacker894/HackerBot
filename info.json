@@ -1,8 +1,8 @@
 {
   "name":"hackerbot",
-  "codename":"SOUND+",
-  "version":"9.05",
-  "oldversion":"0.7.1",
+  "codename":"ARG",
+  "version":"10.0",
+  "oldversion":"0.8",
   "description":"HackerBot is a bot that hacks everywhere to bring you moderation and many other features",
   "owner":"MrHacker894",
   "motd":"HACK EVERYTHING"
