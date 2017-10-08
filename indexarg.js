@@ -6,7 +6,6 @@ var config = require("./config.json");
 var info = require("./info.json");
 const fs = require("fs");
 const prefix = config.prefix
-const ce = require("embed-creator");
 
 let ownerida = 270375857384587264
 let owneridb = '270375857384587264'
