@@ -140,6 +140,7 @@ client.on("message", message => {
       message.channel.send(info.motd)
       break;
     case "setusernick":
+	  var config = require("./config.json")
     var nickerrorembed = new Discord.RichEmbed()
       .setTitle('Nickname Usage')
       .setDescription('Please use ' + config.prefix + 'setnick | This command also works for bots.')
@@ -148,6 +149,7 @@ client.on("message", message => {
 
         break;
         case "setbotnick":
+	var config = require("./config.json")
         var nickerroraembed = new Discord.RichEmbed()
           .setTitle('Nickname Usage')
           .setDescription('Please use ' + config.prefix + 'setnick | This command also works for bots.')
@@ -166,6 +168,7 @@ client.on("message", message => {
 }
 }
 if (unickisStaff) {
+	var config = require("./config.json")
   var nickembed = new Discord.RichEmbed()
 
     .setTitle('Nickname Usage')
