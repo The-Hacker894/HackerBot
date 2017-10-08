@@ -99,16 +99,7 @@ client.on("message", message => {
     message.channel.send('`Sorry, but I do not support music at this time. Please invite HackerBot Music for those commands`')
     message.channel.send('https://discordapp.com/oauth2/authorize?client_id=365255372480446465&scope=bot&permissions=2146958591')
     break;
-
-    case "setmotd":{
-    var info = require("./info.json");
-    let setnewmotd =  message.content.split(' ').slice(1).join(' ');
-    info.motd = setnewmotd;
-    fs.writeFile("./config.json", JSON.stringify(config), (err) => console.error);
-    }
-    message.delete()
-    message.channel.send('The MOTD has been set to ' +  message.content.split(' ').slice(1).join(' '))
-    break;
+		  
     case "pi":
     var value = eval("Math.PI");
     message.channel.send(value)
@@ -133,11 +124,6 @@ client.on("message", message => {
     //  .addField(':outbox_tray:','**Output**')
   //    .addField(execute, '∎')
 //    message.channel.sendEmbed(embed)
-      break;
-    case "motd":
-    var info = require("./info.json");
-      message.delete()
-      message.channel.send(info.motd)
       break;
     case "setusernick":
 	  var config = require("./config.json")
