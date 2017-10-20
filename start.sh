@@ -1,3 +1,3 @@
 cd "$(dirname "$BASH_SOURCE")"
   echo "Connecting to Discord..."
-node indexarg.js
+node index.js
