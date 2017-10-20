@@ -1,5 +1,5 @@
 @ECHO off
 
 echo
-    CMD node indexarg.js
+    CMD node index.js
     EXIT
