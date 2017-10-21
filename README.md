@@ -1,5 +1,5 @@
 # The HackerBot website has moved :)
-[HackerBot Website](https://sites.google.com/view/hackerbot/home)  
+[Sunset Website](https://sites.google.com/view/sunset-discordbot/home)  
 [HackerBot Music GitHub Page](https://github.com/Mr-Hacker894/HackerBot-Music)  
 [HackerBot Music Website](https://sites.google.com/view/hackerbot-music/home)  
 [Dev Page](https://sites.google.com/view/mrhacker-dev-page/home)   
