@@ -37,9 +37,12 @@ client.on("message", message => {
   switch (args[0].toLowerCase()) {
 
     case "music":
-      message.channel.send('`Sorry, but I do not support music at this time. Please invite HackerBot Music for those commands`')
-      message.channel.send('https://discordapp.com/oauth2/authorize?client_id=365255372480446465&scope=bot&permissions=2146958591')
-      break;
+      var musichembed = new Discord.RichEmbed()
+        .setColor('00FF00')
+        .setTitle('Music Commands')
+        .addField('Commands','`play` `stop` `end`')
+        message.channel.send({embed: musichembed})
+	break;
       case "ping":
       var config = require("./config.json")
       var pingembed = new Discord.RichEmbed()
