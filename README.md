@@ -3,7 +3,7 @@
 # HACKERBOT OVERHAUL INCOMING
   
 Soon, HackerBot will be renamed to Sunset. Please be sure to re-invite HackerBot to all of your servers.
-[Sunset Website](https://sites.google.com/view/sunset-discordbot/home)  
+[Sunset Website](https://skydevpage.weebly.com/sunset.html)  
 [HackerBot Music GitHub Page](https://github.com/Mr-Hacker894/HackerBot-Music)  
 [HackerBot Music Website](https://sites.google.com/view/hackerbot-music/home)  
 [Dev Page](https://sites.google.com/view/mrhacker-dev-page/home)   
